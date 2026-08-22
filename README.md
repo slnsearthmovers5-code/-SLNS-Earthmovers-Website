@@ -1,2 +1,2 @@
-# -SLNS-Earthmovers-Website
+# -SLNS-Earthmovers
 Official website of SLNS earthmovers 
